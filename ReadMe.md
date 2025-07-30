@@ -31,20 +31,13 @@ This project is an interactive chatbot that extracts text from images using OCR 
 ## Folder Structure
 
 final_project_igt/
-
 ├── app.py # Main script to run OCR and chatbot
-
 ├── ocr_utils.py # Handles text extraction from images
-
 ├── vector_utils.py # Text chunking and vector embedding storage
-
 ├── chat_utils.py # Handles similarity search and AI21 querying
-
 ├── sample_inputs/
 │ └── Screenshot (199).png # Sample image for OCR
-
 ├── requirements.txt # Python dependencies
-
 ├── README.md # Project overview
 
 
