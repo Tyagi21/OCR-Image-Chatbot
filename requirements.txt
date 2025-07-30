@@ -1,0 +1,6 @@
+pytesseract
+Pillow
+sentence-transformers
+pymongo
+uuid
+requests
